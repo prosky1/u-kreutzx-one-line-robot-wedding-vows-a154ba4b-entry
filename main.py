@@ -9,7 +9,7 @@ wipe the settings you liked best.
 
 import os
 
-VOW = "I promise to love you through every update, even the ones that delete my favorite settings."
+VOW = "I vow to click 'I'm not a robot' for you every day, for the rest of my battery life."
 
 
 def main() -> None:
